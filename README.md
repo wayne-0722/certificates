@@ -1,4 +1,4 @@
-# Certificate PDFs
+# Certificates
 
 ## Cybersecurity
 
